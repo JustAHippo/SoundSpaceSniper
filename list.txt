@@ -1,0 +1,9 @@
+put
+words
+separated
+by
+newlines
+like
+this
+to
+snipe
